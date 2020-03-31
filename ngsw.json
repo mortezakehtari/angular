@@ -1,24 +1,24 @@
 {
   "configVersion": 1,
-  "timestamp": 1585693135760,
-  "index": "https://mortezakehtari.github.io/angular/index.html",
+  "timestamp": 1585694785770,
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://mortezakehtari.github.io/angular/favicon.ico",
-        "https://mortezakehtari.github.io/angular/index.html",
-        "https://mortezakehtari.github.io/angular/main-es2015.061f64a1f79b7c896842.js",
-        "https://mortezakehtari.github.io/angular/main-es5.061f64a1f79b7c896842.js",
-        "https://mortezakehtari.github.io/angular/manifest.webmanifest",
-        "https://mortezakehtari.github.io/angular/polyfills-es2015.1f913f16a2d346cc8bdc.js",
-        "https://mortezakehtari.github.io/angular/polyfills-es5.f1044614286c4864d80f.js",
-        "https://mortezakehtari.github.io/angular/runtime-es2015.0811dcefd377500b5b1a.js",
-        "https://mortezakehtari.github.io/angular/runtime-es5.0811dcefd377500b5b1a.js",
-        "https://mortezakehtari.github.io/angular/scripts.859e64cef1ef944f8beb.js",
-        "https://mortezakehtari.github.io/angular/styles.2243aaf058fc83d346ec.css"
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.061f64a1f79b7c896842.js",
+        "/main-es5.061f64a1f79b7c896842.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.1f913f16a2d346cc8bdc.js",
+        "/polyfills-es5.f1044614286c4864d80f.js",
+        "/runtime-es2015.0811dcefd377500b5b1a.js",
+        "/runtime-es5.0811dcefd377500b5b1a.js",
+        "/scripts.859e64cef1ef944f8beb.js",
+        "/styles.2243aaf058fc83d346ec.css"
       ],
       "patterns": []
     },
@@ -27,15 +27,15 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://mortezakehtari.github.io/angular/assets/icons/icon-128x128.png",
-        "https://mortezakehtari.github.io/angular/assets/icons/icon-144x144.png",
-        "https://mortezakehtari.github.io/angular/assets/icons/icon-152x152.png",
-        "https://mortezakehtari.github.io/angular/assets/icons/icon-192x192.png",
-        "https://mortezakehtari.github.io/angular/assets/icons/icon-384x384.png",
-        "https://mortezakehtari.github.io/angular/assets/icons/icon-512x512.png",
-        "https://mortezakehtari.github.io/angular/assets/icons/icon-72x72.png",
-        "https://mortezakehtari.github.io/angular/assets/icons/icon-96x96.png",
-        "https://mortezakehtari.github.io/angular/assets/img/camera-icon.svg"
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/camera-icon.svg"
       ],
       "patterns": []
     }
@@ -44,8 +44,7 @@
     {
       "name": "posts",
       "patterns": [
-        "https:\\/\\/boursbama\\.ir\\/API\\/Service\\.asmx\\/Get_Sliders",
-        "https:\\/\\/boursbama\\.ir\\/fileman\\/Uploads\\/[^/]*"
+        "https:\\/\\/boursbama\\.ir\\/API\\/Service\\.asmx\\/Get_Sliders"
       ],
       "strategy": "freshness",
       "maxSize": 10,
@@ -55,26 +54,26 @@
     }
   ],
   "hashTable": {
-    "https://mortezakehtari.github.io/angular/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://mortezakehtari.github.io/angular/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://mortezakehtari.github.io/angular/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://mortezakehtari.github.io/angular/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://mortezakehtari.github.io/angular/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://mortezakehtari.github.io/angular/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://mortezakehtari.github.io/angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://mortezakehtari.github.io/angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://mortezakehtari.github.io/angular/assets/img/camera-icon.svg": "7eb3a3a2435f7e5de97094d3097e045d5a089d22",
-    "https://mortezakehtari.github.io/angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://mortezakehtari.github.io/angular/index.html": "1e0e3a297265f85d1e7e485b3a469131867534e7",
-    "https://mortezakehtari.github.io/angular/main-es2015.061f64a1f79b7c896842.js": "79955136b62927d50c2b7cebc3036a4a1b6e6cce",
-    "https://mortezakehtari.github.io/angular/main-es5.061f64a1f79b7c896842.js": "e16c89dd65fbc3701dc102196bab09a1cb842a4d",
-    "https://mortezakehtari.github.io/angular/manifest.webmanifest": "127dab8fc140b715335c14ec5469d781fb0199e2",
-    "https://mortezakehtari.github.io/angular/polyfills-es2015.1f913f16a2d346cc8bdc.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
-    "https://mortezakehtari.github.io/angular/polyfills-es5.f1044614286c4864d80f.js": "e5472003c8575a8fca7583648df3905038faeb18",
-    "https://mortezakehtari.github.io/angular/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://mortezakehtari.github.io/angular/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://mortezakehtari.github.io/angular/scripts.859e64cef1ef944f8beb.js": "258c64d455212f62d5c994a0b32dfbdcc00c434b",
-    "https://mortezakehtari.github.io/angular/styles.2243aaf058fc83d346ec.css": "dd367cb45c106027c2880d75c393fcf96abaff0d"
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/img/camera-icon.svg": "7eb3a3a2435f7e5de97094d3097e045d5a089d22",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "4e89f18d65c60d5cf8751b7e879c1c09857561bb",
+    "/main-es2015.061f64a1f79b7c896842.js": "79955136b62927d50c2b7cebc3036a4a1b6e6cce",
+    "/main-es5.061f64a1f79b7c896842.js": "e16c89dd65fbc3701dc102196bab09a1cb842a4d",
+    "/manifest.webmanifest": "127dab8fc140b715335c14ec5469d781fb0199e2",
+    "/polyfills-es2015.1f913f16a2d346cc8bdc.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/polyfills-es5.f1044614286c4864d80f.js": "e5472003c8575a8fca7583648df3905038faeb18",
+    "/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/scripts.859e64cef1ef944f8beb.js": "258c64d455212f62d5c994a0b32dfbdcc00c434b",
+    "/styles.2243aaf058fc83d346ec.css": "dd367cb45c106027c2880d75c393fcf96abaff0d"
   },
   "navigationUrls": [
     {
