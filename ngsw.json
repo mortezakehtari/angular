@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1585688353986,
+  "timestamp": 1585689760852,
   "index": "https://mortezakehtari.github.io/angular/index.html",
   "assetGroups": [
     {
@@ -64,7 +64,7 @@
     "https://mortezakehtari.github.io/angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://mortezakehtari.github.io/angular/assets/img/camera-icon.svg": "7eb3a3a2435f7e5de97094d3097e045d5a089d22",
     "https://mortezakehtari.github.io/angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://mortezakehtari.github.io/angular/index.html": "ce3df61241778395347d60df871c680f80387c74",
+    "https://mortezakehtari.github.io/angular/index.html": "1e0e3a297265f85d1e7e485b3a469131867534e7",
     "https://mortezakehtari.github.io/angular/main-es2015.061f64a1f79b7c896842.js": "79955136b62927d50c2b7cebc3036a4a1b6e6cce",
     "https://mortezakehtari.github.io/angular/main-es5.061f64a1f79b7c896842.js": "e16c89dd65fbc3701dc102196bab09a1cb842a4d",
     "https://mortezakehtari.github.io/angular/manifest.webmanifest": "127dab8fc140b715335c14ec5469d781fb0199e2",
